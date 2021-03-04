@@ -1,0 +1,13 @@
+name: shiny
+title: shiny
+username:
+account: mkulkarni
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3733517
+bundleId: 4299125
+url: https://mkulkarni.shinyapps.io/shiny/
+when: 1614842259.62543
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: lib/ngdbc-2.4.51.jar|lib/ngdbc-2.4.56.jar|lib/ojdbc7.jar
